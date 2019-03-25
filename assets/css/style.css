@@ -30,8 +30,8 @@ img {
 }
 
 body {
-  background: url('../images/Main.jpeg');
-  background-size: auto;
+  background: url('../images/Main.jpeg') no-repeat;
+  background-size: 75%;
   font-family: 'Karla', sans-serif;
 }
 
