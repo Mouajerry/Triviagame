@@ -68,3 +68,7 @@ h2, h4 {
   position: relative;
   bottom: -150px;
 }
+
+hover {
+  cursor: pointer;
+}
